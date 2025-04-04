@@ -1,0 +1,654 @@
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+    .header-btns {
+        display: block !important;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+    .container {
+        padding: 0 30px;
+    }
+    .header-btns {
+        display: block !important;
+    }
+
+    .pplrgame-left {
+        width: 44%;
+    }
+
+    .pplrgame-right {
+        width: 60%;
+    }
+
+    .hero-left h1 {
+        font-size: 52px;
+        line-height: 80px;
+    }
+
+    .hero-left p {
+        font-size: 17px;
+    }
+
+    .hero-area {
+        overflow: hidden;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .header-btns {
+        display: block !important;
+    }
+
+    .populargamesitem4 ul {
+        grid-column-gap: 16px;
+    }
+
+    .pplrgame-left {
+        width: 44%;
+    }
+
+    .pplrgame-right {
+        width: 60%;
+    }
+
+    .hero-left h1 {
+        font-size: 52px;
+        line-height: 80px;
+    }
+
+    .hero-left p {
+        font-size: 17px;
+    }
+
+    .hero-area {
+        overflow: hidden;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .header-btns {
+        display: block !important;
+    }
+
+    .hero-left h4 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .hero-left h1 {
+        font-size: 37px;
+        font-weight: bold;
+        line-height: 60px;
+    }
+
+    .hero-left p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .hero-left a {
+        font-size: 18px;
+        width: 145px;
+        height: 45px;
+        line-height: 45px;
+        margin-top: 21px;
+    }
+
+    .hero-area {
+        overflow: hidden;
+    }
+
+    .populargames-heading h2 {
+        font-size: 35px;
+        text-align: center;
+        font-weight: 600;
+        margin: 0;
+    }
+
+    .populargames-part {
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 25px;
+        justify-content: space-around;
+        grid-row-gap: 40px;
+    }
+
+    .populargamesitem4 ul {
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 30px;
+        justify-content: space-around;
+        grid-row-gap: 0px;
+        align-items: center;
+    }
+
+    .ttmkdt-part h2 {
+        font-size: 40px;
+    }
+
+    .ttmkdt-part p {
+        font-size: 17px;
+    }
+
+    .popularchannels-hdt h2 {
+        font-size: 40px;
+    }
+
+    .popularchannels-area .owl-nav {
+        top: 15px;
+        right: 32px;
+        gap: 10px;
+    }
+
+    .allgames-hdt h2 {
+        font-size: 40px;
+    }
+
+    .allgames-area .owl-nav {
+        top: 15px;
+        right: 32px;
+    }
+
+    .sliderhd-text h2 {
+        font-size: 40px;
+    }
+
+    .newtext-item2 ul li p {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 23px;
+        padding-left: 13px;
+        margin-top: -14px;
+    }
+
+    .newtext-item2 ul li {
+        display: block;
+        padding-bottom: 17px;
+    }
+
+    .newtext-item1 p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .newhero-part h2 {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header-logo img {
+        max-width: initial;
+        display: block;
+        width: 152px;
+    }
+
+    .header-area {
+        position: relative;
+    }
+
+    .menu-part {
+        display: block;
+    }
+
+    .header-logo {
+        width: 70%;
+    }
+
+    .menu-part {
+        width: 30%;
+        text-align: right;
+    }
+
+    .header-btns {
+        position: absolute;
+        top: 61px;
+        background-color: #041627;
+        left: 0;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 20px;
+        display: none;
+        border-top: 1px solid #3ed3bf;
+    }
+
+    .header-btns ul {
+        text-align: center;
+    }
+
+    .header-btns ul li {
+        display: inline-block;
+        padding-right: 0px;
+        margin: 0 2px;
+    }
+
+    .header-btns ul li a {
+        font-size: 14px;
+        width: 127px;
+        height: 44px;
+        display: block;
+        line-height: 44px;
+        border: 1px solid #1bc8b2 !important;
+    }
+
+    .headertop-part p img {
+        width: 20px;
+        height: 20px;
+        display: block;
+        margin-right: 3px;
+    }
+
+    .headertop-part p {
+        font-size: 9px;
+        font-weight: 500;
+    }
+
+    .headertop-area {
+        padding: 5px 0;
+    }
+
+    .header-btns ul li a {
+        border: none;
+    }
+
+    .hero-part {
+        display: block;
+    }
+
+    .hero-left img {
+        display: block;
+        margin: auto;
+        max-width: 100%;
+    }
+
+    .hero-left {
+        width: 100%;
+        margin-top: 0px;
+    }
+    .mbhero-area {
+        height: auto;
+    }
+    .hero-area {
+        background-image: inherit;
+        padding: 40px 0;
+    }
+
+    .hero-left h1 {
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 40px;
+        margin: 0;
+        text-align: center;
+    }
+
+    .hero-left h4 {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .hero-left p {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+    }
+
+    .hero-right {
+        display: none;
+    }
+
+    .hero-left a {
+        font-size: 18px;
+        width: 160px;
+        height: 42px;
+        display: block;
+        line-height: 40px;
+        text-align: center;
+        margin: auto;
+        margin-top: 22px;
+    }
+    .populargames-area {
+        padding: 40px 0;
+        padding-bottom: 40px;
+    }
+
+    .populargames-heading h2 {
+        font-size: 25px;
+    }
+
+    .populargames-heading {
+        padding-bottom: 30px;
+    }
+
+    .populargames-part {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .ttmkdt-part {
+        background-image: inherit;
+        border-radius: 14px;
+        padding: 86px 15px;
+    }
+
+    .ttmkdt-part h2 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .ttmkdt-part p {
+        font-size: 10px;
+        padding-top: 0px;
+        text-align: center;
+    }
+
+    .ttmkdt-part a {
+        font-size: 19px;
+        width: 145px;
+        height: 40px;
+        display: block;
+        line-height: 40px;
+        text-align: center;
+        margin: auto;
+        margin-top: 22px;
+    }
+
+    .populargamesitem2 h2 {
+        font-size: 18px;
+    }
+
+    .populargamesitem2 p {
+        font-size: 11px;
+    }
+
+    .ppgameitem3-left h3 {
+        font-size: 12px;
+    }
+
+    .ppgameitem3-right h3 {
+        font-size: 12px;
+    }
+
+    .ppgameitem3-left p {
+        font-size: 12px;
+    }
+
+    .ppgameitem3-right p {
+        font-size: 12px;
+    }
+
+    .populargamesitem4 h3 {
+        font-size: 12px;
+    }
+
+    .populargamesitem4 ul li p {
+        font-size: 12px;
+        margin-top: -16px;
+        padding-left: 21px;
+    }
+
+    .pplrgame-right p {
+        font-size: 12px;
+    }
+
+    .pplrgame-left {
+        width: 40%;
+    }
+
+    .pplrgame-right {
+        width: 60%;
+    }
+
+    .populargamesitem4 ul {
+        grid-column-gap: 25px;
+    }
+
+    .ttmkdt-area {
+        padding: 0px 0;
+        padding-top: 10px;
+    }
+
+    .allgames-hdt h2 {
+        font-size: 25px;
+    }
+
+    .allgames-hdt {
+        padding-bottom: 30px;
+    }
+
+    .customNextBtn2 img {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+
+    .customPrevBtn2 img {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+
+    .allgames-area .owl-nav {
+        top: 6px;
+        right: 13px;
+        gap: 7px;
+    }
+
+    .allgames-item p {
+        font-size: 14px;
+        padding-top: 17px;
+    }
+
+    .allgames-area {
+        padding: 30px 0;
+    }
+
+    .allgames-box {
+        width: 100%;
+        height: 140px;
+        border-radius: 14px;
+    }
+
+    .slider-area {
+        padding: 20px 0;
+        padding-bottom: 30px;
+    }
+
+    .sliderhd-text h2 br {
+        display: block;
+    }
+
+    .sliderhd-text h2 {
+        font-size: 25px;
+    }
+
+    .sliderhd-text p {
+        font-size: 14px;
+        font-weight: 400;
+        padding-top: 8px;
+    }
+
+    .slider-heading {
+        padding-bottom: 30px;
+    }
+
+    .slider-area .owl-dots {
+        padding-top: 10px;
+    }
+
+    .slider1-box {
+        width: 100%;
+        padding: 20px 16px;
+        box-sizing: border-box;
+        position: relative;
+    }
+
+    .popularchannels-hdt h2 {
+        font-size: 25px;
+        padding-right: 90px;
+    }
+
+    .popularchannels-hdt {
+        padding-bottom: 30px;
+    }
+
+    .customNextBtn3 img {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+
+    .customPrevBtn3 img {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+
+    .popularchannels-area .owl-nav {
+        top: 6px;
+        right: 13px;
+        gap: 7px;
+    }
+
+    .popularchannels-item p {
+        font-size: 14px;
+        padding-top: 17px;
+        text-align: center;
+    }
+
+    .popularchannels-box {
+        width: 100%;
+        height: 140px;
+    }
+
+    .ppcl-btn a {
+        font-size: 14px;
+        font-weight: 600;
+        width: 123px;
+        height: 36px;
+        display: block;
+        border-radius: 44px;
+        line-height: 36px;
+        text-align: center;
+    }
+
+    .popularchannels-area {
+        padding: 40px 0;
+        padding-top: 20px;
+    }
+
+    .footer-logo img {
+        max-width: initial;
+        display: block;
+        margin: auto;
+        width: 200px;
+    }
+
+    .footer-copyright p {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 30px;
+    }
+
+    .footer-nav ul li {
+        display: block;
+        margin: 0 0px;
+        padding-bottom: 7px;
+    }
+
+    .footer-nav ul li span {
+        display: none;
+    }
+
+    .footer-nav ul li a {
+        font-size: 14px;
+        text-decoration: underline;
+    }
+
+    .footer-area {
+        padding: 40px 0;
+        padding-bottom: 0px;
+    }
+
+    .footerlogos ul {
+        text-align: center;
+        padding-top: 35px;
+        padding-bottom: 45px;
+    }
+
+    .newhero-part h2 {
+        font-size: 25px;
+    }
+
+    .newhero-part p {
+        font-size: 14px;
+    }
+
+    .newhero-area {
+        padding: 70px 0;
+    }
+
+    .newtext-area {
+        padding: 40px 0;
+    }
+
+    .newtext-item1 h2 {
+        font-size: 20px;
+    }
+
+    .newtext-item1 p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .newtext-item2 h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .newtext-item2 h3 {
+        font-size: 15px;
+    }
+
+    .newtext-item2 h5 {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 22px;
+        padding-bottom: 4px;
+    }
+
+    .newtext-item2 ul li p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+        padding-left: 11px;
+        margin-top: -11px;
+    }
+
+    .newtext-item2 ul li {
+        display: block;
+        padding: 9px 0px 15px 30px;
+    }
+
+    .newtext-item1 {
+        padding-bottom: 35px;
+    }
+
+    .newtext-item2 {
+        padding-bottom: 10px;
+    }
+
+    .log-img img {
+        width: 200px;
+    }
+
+    .log-img {
+        margin-bottom: 25px;
+    }
+}
