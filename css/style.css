@@ -74,7 +74,7 @@ ul {
   text-align: center;
   transition: 0.3s all ease;
   border: 1px solid #1bc8b2;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .header-btns ul li:nth-child(2) a {
@@ -90,7 +90,7 @@ ul {
 }
 
 .header-btns ul li a:hover {
-  background: #1bc8b2;
+  background: linear-gradient(270deg, #aaf4e8 0%, #1bc8b2 100%);
   color: #000000;
 }
 
